@@ -19,7 +19,7 @@ This project implements a real-time vehicle detection and tracking system using 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/vehicle_detection.git
+    git clone https://github.com/Anas039/vehicle_detection.git
     cd vehicle_detection
     ```
 
